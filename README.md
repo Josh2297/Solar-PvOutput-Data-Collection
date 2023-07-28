@@ -26,7 +26,8 @@
 9. More pages for each ladder can be gotten by increasing the > range value from 12 in `line 49`, and more laddder pages can be scrapped by increasing the range value from 10 in `line 149`.
 
 
-## This work is part of a project to use Atificial learning and Machine Learning to capture useful insights into solar panel outputs and predict solar panel outputs ##
+##### This work is part of a project to use Atificial learning and Machine Learning to capture useful insights into solar panel outputs and predict solar panel outputs ####
+
 ## Contributors.
 1. Okechukwu Joshua Ifeanyi
 2. Anuka Ifeanyi Stanley
