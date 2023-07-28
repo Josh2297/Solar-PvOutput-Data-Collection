@@ -1,6 +1,6 @@
 # Solar-PvOutput-Data-Collection
 ## Solar PV Data Hub: Harness the Sun's Power: :sun_with_face:
-
+ 
 *This Project presents a script written in the Python language that can be used to scrape data from the pvoutput.org site. It uses the Selenium webdriver to log in the user and navigate pages, and it uses the Beautiful Soup package to scrape the required data. This script gets the date of upload and power generated columns only, as only these were required when writing the script; to get other columns, the user is expected to extend the functionality.*
 
 ## Features
@@ -25,6 +25,8 @@
 8. To get more parameters for each ladder the user is required to extend the extract_date_generated_power function.
 9. More pages for each ladder can be gotten by increasing the > range value from 12 in `line 49`, and more laddder pages can be scrapped by increasing the range value from 10 in `line 149`.
 
+
+** This work is part of a project to use Atificial learning and Machine Learning to capture useful insights into solar panel outputs and predict solar panel outputs**
 ## Contributors.
 1. Okechukwu Joshua Ifeanyi
 2. Anuka Ifeanyi Stanley
