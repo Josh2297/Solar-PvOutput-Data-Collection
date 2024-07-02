@@ -29,5 +29,4 @@
 ##### This work is part of a project to use Atificial learning and Machine Learning to capture useful insights into solar panel outputs and predict solar panel outputs ####
 
 ## Contributors.
-1. Okechukwu Joshua Ifeanyi
-2. Anuka Ifeanyi Stanley
+1. Joshua Okechukwu.
